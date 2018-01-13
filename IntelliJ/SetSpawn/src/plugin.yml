@@ -1,0 +1,12 @@
+name: SetSpawn
+version: 0.1
+description: {This plugin allows admins to change the spawn location of the world.}
+author: putin_developer
+main: putin.setspawn.Main
+commands:
+  spawn:
+    description: {This command teleports the user to the already set spawn point}
+    usage: /spawn
+  setspawn:
+    description: {This command sets the world spawn point.}
+    usage: /setspawn

@@ -1,0 +1,9 @@
+name: helloworld
+version: 0.1
+description: works
+author: putin_developer
+main: putin.helloworld.helloworld.helloworld
+commands:
+  memes:
+    description:
+    usage: /memes

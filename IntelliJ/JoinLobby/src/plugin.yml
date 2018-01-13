@@ -1,0 +1,5 @@
+name: JoinLobby
+version: 0.1
+description: {Changes login sound to enderman teleport, and displays welcome message.}
+author: putin_developer
+main: putin.joinlobby.JoinLobby
