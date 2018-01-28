@@ -1,0 +1,5 @@
+name: playerevent
+version: 0.1
+description: "Item event for bungeecord"
+author: putin_developer
+main: putin.playerevent.Main
