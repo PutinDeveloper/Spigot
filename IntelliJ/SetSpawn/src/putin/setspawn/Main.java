@@ -26,7 +26,7 @@ public class Main extends JavaPlugin {
               y: (COORDINATE)
               z: (COORDINATE)
              */
-            p.sendMessage(ChatColor.GREEN + "Server spawnpoing has been set!");
+            p.sendMessage(ChatColor.GREEN + "Server spawn going has been set!");
             return true;
         }
 
